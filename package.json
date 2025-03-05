@@ -1,0 +1,23 @@
+{
+  "name": "markitdown",
+  "version": "1.0.0",
+  "description": "Cross-platform WYSIWYG markdown editor.",
+  "homepage": "https://github.com/bkenks/markitdown#readme",
+  "bugs": {
+    "url": "https://github.com/bkenks/markitdown/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkenks/markitdown.git"
+  },
+  "license": "MIT",
+  "author": "Brian Kenkel",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^35.0.0"
+  }
+}
